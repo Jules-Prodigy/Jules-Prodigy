@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juliet Ekidor
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m currently learning Data Science
+- 🌱 I love Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - ekidorjuliet@gmail.com
 - 😄 Pronouns: she/her
