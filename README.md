@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Juliet Ekuom
+- 👋 Hi, I’m Juliet Ekidor
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me - julietekuom@gmail.com
+- 📫 How to reach me - ekidorjuliet@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Am a Violinist
 
